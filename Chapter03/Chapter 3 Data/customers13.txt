@@ -1,0 +1,4 @@
+1101,susan,nyc,23
+1204,adam,chicago,76
+1123,joe,london,65
+1109,tiffany,chicago,20

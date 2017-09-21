@@ -1,0 +1,30 @@
+{"make": "Telsa", "model": "Model S", "price": 71000.00, "style": "sedan", "kind": "electric"} 
+{"make": "Audi", "model": "A3 E-Tron", "price": 37900.00, "style": "luxury", "kind": "hybrid"} 
+{"make": "BMW", "model": "330e", "price": 43700.00, "style": "sedan", "kind": "hybrid"}
+{"make": "BMW", "model": "i3", "price": 43300.00, "style": "sedan", "kind": "electric"}
+{"make": "BMW", "model": "i8", "price": 137000.00, "style": "coupe", "kind": "hybrid"}
+{"make": "BMW", "model": "X5 xdrive40e", "price": 64000.00, "style": "suv", "kind": "hybrid"}
+{"make": "Chevy", "model": "Spark EV", "price": 26000.00, "style": "coupe", "kind": "electric"}
+{"make": "Chevy", "model": "Volt", "price": 34000.00, "style": "sedan", "kind": "electric"}
+{"make": "Fiat", "model": "500e", "price": 32600.00, "style": "coupe", "kind": "electric"}
+{"make": "Ford", "model": "C-Max Energi", "price": 32600.00, "style": "wagon/van", "kind": "hybrid"}
+{"make": "Ford", "model": "Focus Electric", "price": 29200.00, "style": "sedan", "kind": "electric"}
+{"make": "Ford", "model": "Fusion Energi", "price": 33900.00, "style": "sedan", "kind": "electric"}
+{"make": "Hyundai", "model": "Sonata", "price": 35400.00, "style": "sedan", "kind": "hybrid"}
+{"make": "Kia", "model": "Soul EV", "price": 34500.00, "style": "sedan", "kind": "electric"}
+{"make": "Mercedes", "model": "B-Class", "price": 42400.00, "style": "sedan", "kind": "electric"}
+{"make": "Mercedes", "model": "C350", "price": 46400.00, "style": "sedan", "kind": "hybrid"}
+{"make": "Mercedes", "model": "GLE500e", "price": 67000.00, "style": "suv", "kind": "hybrid"}
+{"make": "Mitsubishi", "model": "i-MiEV", "price": 23800.00, "style": "sedan", "kind": "electric"}
+{"make": "Nissan", "model": "LEAF", "price": 29000.00, "style": "sedan", "kind": "electric"}
+{"make": "Porsche", "model": "Cayenne", "price": 78000.00, "style": "suv", "kind": "hybrid"}
+{"make": "Porsche", "model": "Panamera S", "price": 93000.00, "style": "sedan", "kind": "hybrid"}
+{"make": "Tesla", "model": "Model X", "price": 80000.00, "style": "suv", "kind": "electric"}
+{"make": "Tesla", "model": "Model 3", "price": 35000.00, "style": "sedan", "kind": "electric"}
+{"make": "Volvo", "model": "XC90 T8", "price": 69000.00, "style": "suv", "kind": "hybrid"}
+{"make": "Cadillac", "model": "ELR", "price": 76000.00, "style": "coupe", "kind": "hybrid"}
+
+
+
+
+
