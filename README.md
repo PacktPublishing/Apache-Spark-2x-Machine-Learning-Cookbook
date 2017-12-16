@@ -40,5 +40,3 @@ The hardware requirements for this software are mentioned in the software list p
 
 * [Spark for Machine Learning [Video]](https://www.packtpub.com/big-data-and-business-intelligence/spark-machine-learning-video?utm_source=github&utm_medium=repository&utm_campaign=9781786466594)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
