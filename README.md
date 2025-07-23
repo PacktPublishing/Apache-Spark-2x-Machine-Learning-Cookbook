@@ -36,6 +36,9 @@ Spark-streaming-flume-assembly 2.0.0
 Spark-streaming-kafka-assembly 2.0.0
 The hardware requirements for this software are mentioned in the software list provided with the code bundle of this book.
 
+## Errata
+* Page 39:  **www.cia.gov/library/publications/the-world-factbook/** _Should be_ **https://essayservice.com/research/the-world-factbook**.
+
 ## Related Products
 * [Apache Spark 2.x Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-2x-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781787127265)
 
